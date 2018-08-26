@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.nolanpainting.com/services/color-consulting/");
+header("Location: https://www.bhg.com/gardening/vegetable/vegetables/");
 die();
 ?>
